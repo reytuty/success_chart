@@ -1,0 +1,19 @@
+{
+  "name": "success_spider_chart",
+  "version": "1.0.0",
+  "description": "to draw success parameters of each values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reytuty/success_chart.git"
+  },
+  "author": "Renato Miawaki",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/reytuty/success_chart/issues"
+  },
+  "homepage": "https://github.com/reytuty/success_chart#readme"
+}
